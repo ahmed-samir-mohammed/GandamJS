@@ -1,4 +1,4 @@
-# AwesomeComponents Library
+# GandamJS Library
 
 ![AwesomeComponents Logo](icons/awesome-components-logo.png)
 
