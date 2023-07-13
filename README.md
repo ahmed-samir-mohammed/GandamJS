@@ -1,8 +1,8 @@
 # GandamJS Library
 
-![AwesomeComponents Logo](icons/awesome-components-logo.png)
+![GandamJS Logo](icons/awesome-components-logo.png)
 
-AwesomeComponents is a powerful JavaScript library that allows you to easily create multiple components for your frontend applications. With a wide range of pre-built components and flexible customization options, you can rapidly build interactive and visually appealing user interfaces.
+GandamJS is a powerful JavaScript library that allows you to easily create multiple components for your frontend applications. With a wide range of pre-built components and flexible customization options, you can rapidly build interactive and visually appealing user interfaces.
 
 ## Features
 
@@ -15,7 +15,7 @@ AwesomeComponents is a powerful JavaScript library that allows you to easily cre
 
 ## Installation
 
-You can install the AwesomeComponents library using npm. Run the following command in your project directory:
+You can install the GandamJS library using npm. Run the following command in your project directory:
 
 ```shell
 npm install gandam-js
